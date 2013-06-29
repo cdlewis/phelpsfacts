@@ -14,7 +14,7 @@ Whilst Phelps has repeatedly denied reports that he is a reincarnation of Austra
 The character John Gault is believed to have been based on Peter Phelps, who was initially slated to appear as himself in Paul Johansson's cinematic adaption of Atlas Shrugged. However Phelps later withdrew due to ideological opposition to objectivism, which he denounced as being 'excessively statist'.
 
 ## 4
-While on a school excursion, a young Peter Phelps became lost in the sub-alpine forests of the Kaputar plateau. His influence on local wildlife can be seen to this day, with local flora and fauna in North Western NSW exhibiting a significantly stronger sense of individual responsibility than comparable areas.
+While on a school excursion, a young Peter Phelps became lost in the sub-alpine forests of the Kaputar plateau. His influence on local wildlife can be seen to this day, with local flora and fauna in North Western NSW exhibiting a significantly stronger sense of individual responsibility than other comparable areas.
 
 Researchers also observed that a pack of wolves, with whom Phelps is believed to have stayed for several months, exhibited behaviour consistent with the use of a system of voluntary exchange.
 

@@ -10,9 +10,10 @@ pygments: true
 # so be sure to set them if your theme uses them.
 #
 title : Peter Phelps Facts 
-tagline: Site Tagline
+tagline : Chuck Norris 'facts' have been around for a while but the Internet has long lacked a comprehensive source of information on the great Peter Phelps. Phelps Facts is an attempt to remedy this issue.
+	
 author :
-  name :
+  name : Chris Lewis
   email : phelpsfacts@gmail.com
   github :
   twitter :
@@ -101,7 +102,7 @@ JB :
   analytics :
     provider : google 
     google : 
-        tracking_id : 'UA-123-12'
+        tracking_id : 'UA-42112536-1'
     getclicky :
       site_id : 
     mixpanel :

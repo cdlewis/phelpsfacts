@@ -8,7 +8,7 @@ title: Peter Phelps Facts
 Peter Phelps was born on the same day that George Reid passed away, making him the oldest current serving member of the NSW Legislative Council.
 
 ## 2
-Whilst Phelps has repeatedly denied reports that he is a reincarnation of Australia's 4th Prime Minister. The existence of certain shared memories was conceded by his office.
+Whilst Phelps has repeatedly denied reports that he is a reincarnation of Australia's 4th Prime Minister, the existence of certain shared memories has been conceded by his office.
 
 ## 3
 The character John Gault is believed to have been based on Peter Phelps, who was initially slated to appear as himself in Paul Johansson's cinematic adaption of Atlas Shrugged. However Phelps later withdrew due to ideological opposition to objectivism, which he denounced as being 'excessively statist'.

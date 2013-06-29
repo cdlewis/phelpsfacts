@@ -14,4 +14,14 @@ Whilst Phelps has repeatedly denied reports that he is a reincarnation of Austra
 The character John Gault is believed to have been based on Peter Phelps, who was initially slated to appear as himself in Paul Johansson's cinematic adaption of Atlas Shrugged. However Phelps later withdrew due to ideological opposition to objectivism, which he denounced as being 'excessively statist'.
 
 ## 4
-While on a school excursion, a young Peter Phelps became lost in the sub-alpine forests of the Kaputar plateau. His influence on local wildlife can be seen to this day, with local flora and fauna in North Western NSW exhibiting a significantly stronger sense of individual responsibility. A pack of wolves, with whom Phelps is believed to have stayed for several months, evinced behaviour consistent with the use of a system of voluntary exchange.
+While on a school excursion, a young Peter Phelps became lost in the sub-alpine forests of the Kaputar plateau. His influence on local wildlife can be seen to this day, with local flora and fauna in North Western NSW exhibiting a significantly stronger sense of individual responsibility than comparable areas.
+
+Researchers also observed that a pack of wolves, with whom Phelps is believed to have stayed for several months, exhibited behaviour consistent with the use of a system of voluntary exchange.
+
+## 5
+Peter Phelps is best known for his famous 'tear down this wall' speech, which is often misattributed to Ronald Reagan. In it, he called for the removal of regulatory barriers imposed on US banks -- that restricted them from engaging in both investment and commercial banking. Phelps was ultimately successful when the *Glass-Steagall Act* was partially repealed in 1999.
+
+The story of Peter's quest to deregulate banking quickly entered popular culture and is believed to have been inspiration for Ronald Reagan's own fight against communism as well as the popular movie *Mr Smith Goes to Washington*.
+
+## 6
+The roundabout was first invented by Peter Phelps as a means of travelling by only turning right.

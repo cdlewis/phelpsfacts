@@ -25,3 +25,6 @@ The story of Peter's quest to deregulate banking quickly entered popular culture
 
 ## 6
 The roundabout was originally invented by Peter Phelps as a means of travelling by only going to the right.
+
+## 7
+Lake Eyre was originally created when Peter Phelps first set eyes upon the size of government in Australia and wept. Its aboriginal name of 'Kati Thanda' roughly translates into 'great man's sorrow'. Following the announcement of the carbon tax in 2010, the lake filled to capacity.
